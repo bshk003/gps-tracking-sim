@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/dennis/Projects/gps-tracking-sim/build",
+  "command": "/usr/bin/c++  -I/home/dennis/Projects/gps-tracking-sim/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/gps-tracking-sim.dir/src/crs_converter.cpp.o -c /home/dennis/Projects/gps-tracking-sim/src/crs_converter.cpp",
+  "file": "/home/dennis/Projects/gps-tracking-sim/src/crs_converter.cpp",
+  "output": "CMakeFiles/gps-tracking-sim.dir/src/crs_converter.cpp.o"
+},
+{
+  "directory": "/home/dennis/Projects/gps-tracking-sim/build",
+  "command": "/usr/bin/c++  -I/home/dennis/Projects/gps-tracking-sim/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/gps-tracking-sim.dir/src/main.cpp.o -c /home/dennis/Projects/gps-tracking-sim/src/main.cpp",
+  "file": "/home/dennis/Projects/gps-tracking-sim/src/main.cpp",
+  "output": "CMakeFiles/gps-tracking-sim.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/dennis/Projects/gps-tracking-sim/build",
+  "command": "/usr/bin/c++  -I/home/dennis/Projects/gps-tracking-sim/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/gps-tracking-sim.dir/src/model_params.cpp.o -c /home/dennis/Projects/gps-tracking-sim/src/model_params.cpp",
+  "file": "/home/dennis/Projects/gps-tracking-sim/src/model_params.cpp",
+  "output": "CMakeFiles/gps-tracking-sim.dir/src/model_params.cpp.o"
+}
+]

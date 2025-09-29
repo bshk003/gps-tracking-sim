@@ -1,0 +1,9 @@
+steering_wheel_angle: 120.0
+steering_ratio: 20.0
+speed: 10.0
+wheelbase: 2.0
+time_step: 100
+initial_lat: 53.262778
+initial_long: 50.372778
+initial_elevation: 50.0
+initial_orientation: 30.0
