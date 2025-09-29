@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/outDebug.dir/src/crs_converter.cpp.o CMakeFiles/outDebug.dir/src/main.cpp.o CMakeFiles/outDebug.dir/src/model_params.cpp.o -o Debug/outDebug  /usr/lib/x86_64-linux-gnu/libproj.so.25.9.4.0 
